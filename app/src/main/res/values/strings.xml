@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">GB_HWABLesson1</string>
+    <string name="app_name">ABHWLesson1</string>
+    <string name="TV1">Какой-то текст для задания №1</string>
+    <string name="hintEditText">Description</string>
+    <string name="tapme">TapME-></string>
+    <string name="switchText">Переключатель жизни</string>
+    <string name="tapme2"><![CDATA[<-TapMe]]></string>
 </resources>
